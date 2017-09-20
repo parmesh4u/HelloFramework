@@ -1,0 +1,31 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getExistentialTypeMetadata
+_swift_rt_swift_allocObject
+__TMLGCs23_ContiguousArrayStorageP__
+__TMLP_
+__swift_FORCE_LOAD_$_swiftUIKit_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftCoreImage_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftFoundation_$_HelloFramework
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_HelloFramework
+___swift_reflection_version
+Apple LLVM version 8.1.0 (clang-802.0.42)
+-emit-bc /Users/ojhaparmeshwarkumar/Desktop/HH/HelloFramework/HelloFramework/HelloLogger.swift -target armv7-apple-ios10.3 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk -I /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Products/Release-iphoneos -F /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/HelloFramework-generated-files.hmap -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/HelloFramework-own-target-headers.hmap -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/HelloFramework-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/HelloFramework-project-headers.hmap -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Products/Release-iphoneos/include -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/DerivedSources/armv7 -Xcc -I/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/ojhaparmeshwarkumar/Desktop/HH/HelloFramework -emit-module-doc-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloFramework.swiftdoc -serialize-diagnostics-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloLogger.dia -O -parse-as-library -module-name HelloFramework -emit-module-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloFramework.swiftmodule -emit-objc-header-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloFramework-Swift.h -emit-dependencies-path /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloLogger.d -num-threads 4 -o /Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/Objects-normal/armv7/HelloLogger.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/ojhaparmeshwarkumar/Desktop/HH/HelloFramework
+Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)
+/Users/ojhaparmeshwarkumar/Desktop/HH/HelloFramework/HelloFramework/HelloLogger.swift
+printHello
+HelloLogger.swift
+/Users/ojhaparmeshwarkumar/Desktop/HH/HelloFramework/HelloFramework
+_TTSg5P____TFs27_allocateUninitializedArrayurFBwTGSax_Bp_
+_TTSg5P____TZFSa13_adoptStoragefTGCs23_ContiguousArrayStoragex_5countSi_TGSax_GSpx__
+_TTSg5P____TFVs22_ContiguousArrayBufferCfT5countSi7storageGCs23_ContiguousArrayStoragex__GS_x_
+_TTSg5P____TFVs22_ContiguousArrayBuffer18_initStorageHeaderfT5countSi8capacitySi_T_
+_TTSg5P____TFVs22_ContiguousArrayBufferg19firstElementAddressGSpx_
+_TMaGCs23_ContiguousArrayStorageP__
+_TMaP_
+/Users/ojhaparmeshwarkumar/Library/Developer/Xcode/DerivedData/HelloFramework-gboxyilxrblzysfeuflftuauapgq/Build/Intermediates/HelloFramework.build/Release-iphoneos/HelloFramework.build/DerivedSources/HelloFramework_vers.c
